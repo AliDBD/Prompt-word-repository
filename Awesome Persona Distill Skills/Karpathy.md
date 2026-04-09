@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/alchaincyf/karpathy-skill ---
-
 ---
 name: andrej-karpathy-perspective
 description: |

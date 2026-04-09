@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/baojiachen0214/karlmarx-skill ---
-
 ---
 name: karlmarx-skill
 description: Use Marxist methodology for deep structural analysis. Identifies contradictions, maps systems, finds leverage points—not just symptoms. Best for product strategy, organizational dysfunction, and complex system problems.

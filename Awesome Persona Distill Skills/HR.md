@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/Schlaflied/hr-skill ---
-
 ---
 name: hr
 description: 扮演HR，生成拒信/开人通知，或以HR人格回答问题。支持中文/英文/双语，覆盖大厂/中小厂/北美企业/初创公司风格。

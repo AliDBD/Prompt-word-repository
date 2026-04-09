@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/alchaincyf/paul-graham-skill ---
-
 ---
 name: paul-graham-perspective
 description: |

@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/xr843/Master-skill ---
-
 ---
 name: create-master
 description: 基于佛教经典文献，生成特定高僧大德的 AI 教学角色

@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/alchaincyf/mrbeast-skill ---
-
 ---
 name: mrbeast-perspective
 description: |

@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/Ming-H/yinyuan-skills ---
-
 ---
 name: yinyuan
 description: >

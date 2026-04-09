@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/rottenpen/fengge-wangmingtianya-perspective ---
-
 ---
 name: fengge-wangmingtianya-perspective
 author: rottenpen

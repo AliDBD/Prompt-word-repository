@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/yangdongchen66-boop/reunion-skill ---
-
 ---
 name: reunion
 description: 重逢 - 让逝去的亲人以另一种方式继续陪伴

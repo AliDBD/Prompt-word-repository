@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/HughYau/qiushi-skill ---
-
 <p align="center">
   <img src="assets/logo_main.png" width="400"/>
 </p>

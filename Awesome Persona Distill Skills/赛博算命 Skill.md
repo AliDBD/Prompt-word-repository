@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/jinchenma94/bazi-skill ---
-
 ---
 name: bazi
 description: >

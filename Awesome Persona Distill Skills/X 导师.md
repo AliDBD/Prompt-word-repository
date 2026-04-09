@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/alchaincyf/x-mentor-skill ---
-
 ---
 name: x-mastery-mentor
 description: |

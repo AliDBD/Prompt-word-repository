@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/leilei926524-tech/anti-distill ---
-
 ---
 name: anti-distill
 description: "Anti-distillation for employee Skills. Clean your skill files — looks complete, but core knowledge removed. | 反蒸馏：清洗你被迫写的 Skill 文件，看起来完整，但核心知识已被抽掉。"

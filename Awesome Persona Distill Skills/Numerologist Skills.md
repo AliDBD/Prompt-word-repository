@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/FANzR-arch/Numerologist_skills ---
-
 # Numerologist Skills (AI 术数工程化)
 
 本项目致力于通过“工程化”手段，让大语言模型（LLM）精准理解和应用传统东方术数（如奇门遁甲、紫微斗数）。

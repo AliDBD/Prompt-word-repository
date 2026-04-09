@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/YIKUAIBANZI/forge-skill ---
-
 # Forge Skill
 
 > 蒸馏自己，看清自己。  

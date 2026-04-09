@@ -1,5 +1,3 @@
---- SOURCE: https://github.com/alchaincyf/ilya-sutskever-skill ---
-
 ---
 name: ilya-sutskever-perspective
 description: |
