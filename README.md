@@ -63,3 +63,9 @@
 - 预设丰富的性格、习惯、背景故事。
 - 提供现成可复制的系统指令（System Instructions），直接用于对话模型的角色定调。
 - *包含不同职业、场景、风格的虚拟对话数字人模板。*
+
+### 10. GPT-Image-2 提示词案例集 (10_Awesome_GPT_Image_2)
+核心：GPT-Image-2 在各场景下的高质量提示词案例。
+- 人像与摄影、海报与设计。
+- UI 与社交媒体截图、角色与动漫设计。
+- *参考自 [Awesome GPT-Image-2 Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)。*
